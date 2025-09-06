@@ -1,8 +1,4 @@
-Great 🙌 Thanks for sharing the details! Now I can build you a **README.md** tailored for your project.
 
-Here’s a clean version you can directly put in your repo:
-
----
 
 # 🏡 House Price Prediction
 
